@@ -1,0 +1,17 @@
+S -> NP VP
+        S -> VP
+        S -> Aux NP VP
+        S -> QPN Aux NP VT
+        S -> QPN VP
+        S -> QDet N Aux NP VT
+        S -> QDet N Aux NP VT PP
+        S -> QADV Aux NP VP
+        NP -> Det N
+        NP -> N
+        NP -> PN
+        NP -> Det Adj N
+        NP -> NP PP
+        PP -> P NP
+        VP -> VI
+        VP -> VT NP
+        VP -> VI PP
